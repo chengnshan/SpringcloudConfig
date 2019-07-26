@@ -1,3 +1,6 @@
 info:
   profile: test
   from: git-repo-test
+config:
+  client:
+    name: springcloud_config-server-test

@@ -1,3 +1,6 @@
 info:
   profile: dev
   from: git-repo
+config:
+  client:
+    name: springcloud_config_server_dev
