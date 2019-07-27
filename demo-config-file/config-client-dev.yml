@@ -3,4 +3,4 @@ info:
   from: git-repo
 config:
   client:
-    name: springcloud_config_client_dev_github
+    name: springcloud_config_client_dev_github_github
