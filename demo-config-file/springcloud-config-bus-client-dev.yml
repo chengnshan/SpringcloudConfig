@@ -1,4 +1,4 @@
 config:
   bus:
     client:
-      name: springcloud_config_server_dev_bus_update1
+      name: springcloud_config_server_dev_bus_update1_update2
